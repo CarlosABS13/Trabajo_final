@@ -1,0 +1,11 @@
+Model Information:
+* title:	Autodesk Ninja
+* source:	https://sketchfab.com/3d-models/autodesk-ninja-c4523e6831914937ae7facc1ddf5820b
+* author:	EpicRatt (https://sketchfab.com/Schrodingers_rat)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Autodesk Ninja" (https://sketchfab.com/3d-models/autodesk-ninja-c4523e6831914937ae7facc1ddf5820b) by EpicRatt (https://sketchfab.com/Schrodingers_rat) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

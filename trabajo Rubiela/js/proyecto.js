@@ -14,9 +14,9 @@ const renderer = new THREE.WebGLRenderer();
 renderer.setSize( window.innerWidth, window.innerHeight );
 document.body.appendChild( renderer.domElement );
 
-var control = new THREE.OrbitControls( camera, renderer.domElement );
+/* var control = new THREE.OrbitControls( camera, renderer.domElement );
 control.minDistance = 5;
-control.maxDistance = 8;
+control.maxDistance = 8; */
 
 const gltfLoader = new THREE.GLTFLoader();
 
@@ -74,7 +74,8 @@ gltfLoader.load('../imagenes/dragon_ver2/scene.gltf',
 		console.log('error')
 	}
 	);
-	
+
+
 	//animation
 const geometry = new THREE.TorusKnotGeometry( 3.9, 3, 23, 6, 4, 7 );
 const material = new THREE.MeshNormalMaterial( { color: 0xffff00 } );
